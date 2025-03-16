@@ -57,6 +57,7 @@ This project fetches and displays the NASA Astronomy Picture of the Day using th
 
 ##OUTPUT IMAGE:: 
 
+![Image](https://github.com/user-attachments/assets/0315c732-db5e-432c-8f91-e59adb1b0012)
 
 
 
