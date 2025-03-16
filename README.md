@@ -53,7 +53,10 @@ This project fetches and displays the NASA Astronomy Picture of the Day using th
 
 *Celestial Data Collection* : The framework can also be adapted for collecting celestial data, such as planetary positions, astronomical events, and space weather conditions. This functionality can aid researchers and astronomy enthusiasts in gathering real-time data for their studies.
 
-*Research Purposes*: Due to its flexible design, this project can be modified for different research needs. Users can incorporate additional API integrations and customize data analysis scripts to suit their specific objectives, making it a valuable tool for scientific exploration and data-driven insights.
+*Research Purposes*: Due to its flexible design, this project can be modified for different research needs. Users can incorporate additional API integrations and customize data analysis scripts to suit their specific objectives, making it a valuable tool for scientific exploration and data-driven insights.\
+
+##OUTPUT IMAGE:: 
+
 
 
 
